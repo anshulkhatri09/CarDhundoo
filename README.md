@@ -52,6 +52,6 @@ This project is licensed under the [MIT License](insert_license_link_here). Feel
 
 ## 📧 Contact
 
-If you have any questions or suggestions regarding CarDhundo, please feel free to reach out to us at abhishek.kumar2021d@vitstudent.ac.in
+If you have any questions or suggestions regarding CarDhundo, please feel free to reach out to us at anshul.khatri2025@outlook.com
 
 Happy car renting with CarDhundo!
